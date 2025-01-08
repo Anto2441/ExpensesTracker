@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2025-01-07",
+      "amount": 45,
+      "description": "Breakfast"
+    },
+    {
+      "id": 2,
+      "date": "2025-01-07",
+      "description": "Dinner",
+      "amount": 15
+    },
+    {
+      "id": 3,
+      "date": "2025-01-07",
+      "description": "Dessert",
+      "amount": 90
+    }
+  ],
+  "budgets": {
+    "1": 100
+  }
+}
