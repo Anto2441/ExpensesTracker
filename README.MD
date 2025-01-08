@@ -2,7 +2,7 @@
 
 
 
-A simple command-line application to track your expenses, manage budgets, and export data. Built with **Node.js**, this tool is perfect for managing personal finances from the terminal.
+A simple node.js project to track your expenses, manage budgets, and export data to a csv file.
 
 ## Features
 
