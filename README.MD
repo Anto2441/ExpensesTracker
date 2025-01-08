@@ -1,5 +1,7 @@
 # Expense Tracker CLI
 
+
+
 A simple command-line application to track your expenses, manage budgets, and export data. Built with **Node.js**, this tool is perfect for managing personal finances from the terminal.
 
 ## Features
