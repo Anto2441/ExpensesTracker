@@ -176,7 +176,7 @@ ExpenseTracker/
 - **Node.js**: Backend runtime environment.
 - **Commander.js**: CLI argument parsing.
 - **Chalk**: Colored terminal output.
-- **fs**: File system operations.
+- **fs-extra**: File system operations.
 
 ---
 
