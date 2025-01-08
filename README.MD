@@ -1,7 +1,5 @@
 # Expense Tracker CLI
 
-
-
 A simple node.js project to track your expenses, manage budgets, and export data to a csv file.
 
 ## Features
